@@ -2,6 +2,22 @@
 
 This project demonstrates how a regex (regular expression) pattern matches certain inputs.
 
+Sample pattern that can be used in vscode search field
+
+```
+Version="\d+(\.\d+)+"
+``` 
+
+Matches
+
+```
+Version="1.0.0"
+Version="2.0.0"
+Version="2.1.0"
+Version="2.1.1"
+Version="2.4.1"
+```
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
